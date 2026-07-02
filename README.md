@@ -28,4 +28,5 @@ In addition to sentiment analysis, the project implements a **content-based reco
 * Cosine Similarity
 * Jupyter Notebook
 * VS Code
+
 This project was developed as a **Final Year Project (BS Computer Engineering)** to demonstrate the integration of Big Data technologies and Machine Learning for building a scalable and intelligent movie review and recommendation system.
